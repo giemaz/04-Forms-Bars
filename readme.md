@@ -2,7 +2,7 @@
 
 ## 🌟 About
 
-This project is for educational purposes. Site published at: https://giemaz.github.io/04--weekend/
+This project is for educational purposes. Site published at: https://giemaz.github.io/04-Forms-Bars/
 
 Design: [Happy Weekend] (./img/a*happy_weekend*.webp)
 
